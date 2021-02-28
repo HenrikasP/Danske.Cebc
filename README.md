@@ -25,4 +25,4 @@ Application is configured in `App.config`.
 
 ## Notes 
 
-Currently unterest rate is calculated only monthly. So Compound **cannot** be changed at the moment.
+Currently interest rate is calculated only monthly. So Compound **cannot** be changed at the moment.
